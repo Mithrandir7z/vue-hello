@@ -2,6 +2,6 @@ var root = new Vue ({
     el: '#root',
 
     data: {
-        message: 'Hello Vue!'
+        message: 'Hello Vue!!'
     }
 })
